@@ -1,0 +1,143 @@
+body {
+
+   
+    background-color: rgb(0, 0, 0);
+    font-family: 'Noto Sans KR', sans-serif;
+  
+   
+    color: rgb(215 228 19);
+   
+    }
+
+    .container {
+        width: 900px;
+        margin: auto;
+    }
+.profile {
+    text-align: center;
+}
+
+.CHAMADA {
+    text-align: center;
+}
+
+.CHAMADA1 {
+    text-align: center;
+    font-size: 250;
+    margin-bottom: 30px;
+    color: red;
+}
+
+
+    .branco {
+     color: rgb(255, 255, 255);
+    margin-bottom: 0px;
+    margin-top: 20px;
+    
+    }
+
+    .TITULO1 {
+        color: white;
+    }
+
+    .TITULO2 {
+        color: red;
+        font-size: 200;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+
+    .vermelho {
+    color: #615e5e;
+    margin-top: 0px;
+    font-style: italic;
+    font-weight: 100;
+    letter-spacing: -1px;
+    }
+
+    .foto {
+    width: 230;
+   
+    }
+
+    .red {
+    color: red;
+    }
+
+    .foto {
+    width: 350px;
+    border: 2px solid rgb(99, 99, 99); /* shorthand*/
+    border-radius: 50%; /* deixar borda circular, posso usar valores isolados para cada canto da borda*/
+    /*border-width: 5px;
+    border-style: solid;
+    border-color: black; essa forma fica igual a forma de cima */
+    margin-top: 30px;
+    margin-bottom: 0px;
+ 
+    /* margin: 30px 30px 30px 30px; primeiro 30% correspode ao topo, segundo rigth, terceiro bottom, quarto lefth
+    */
+    /* padding: 10px; */
+    box-shadow: 0px 0px 25px rgba(255, 0, 0, 0.842) ;
+
+    
+}
+
+.social-icons{
+    width: 275px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 15px;
+   
+}
+
+.social-icons1 {
+    width: 335px;
+    margin-left: 270px;
+    margin-right: 5px;
+    margin-top: 15px;
+}
+
+.social-icons2 {
+    width: 600px;
+    margin-left: 140px;
+    margin-right: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.social-icons3 {
+    width: 240px;
+    margin-left: 300px;
+    margin-right: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.red {
+    color: rgb(2, 202, 2);
+        font-size: 200;
+        margin-left: 100px;
+        margin-top: 50px;
+}
+ .whatssap {
+    width: 275px;
+    margin-left: 200px;
+    margin-right: 5px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+ }
+
+.p {
+    color: white;
+}
+
+.box-texto {
+    width: 800px;
+    margin: auto;
+}
+
+
+.stilo {
+    font-style: italic;
+    font-size: medium;
+}
